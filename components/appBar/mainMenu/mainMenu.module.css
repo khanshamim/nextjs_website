@@ -1,0 +1,17 @@
+.mainMenuItem {
+    text-decoration: "none";
+    color: 'white';
+  }
+.activeMainMenu {
+    color: 'mustardYellow';
+    border-bottom: '4px solid';
+    border-radius: "4px";
+  }
+.subMenuItem {
+    text-decoration: "none";
+    color: 'theme.palette.text.primary';
+  }
+.activeSubMenu {
+    background-color: 'theme.palette.common.mustardYellow';
+  }
+
